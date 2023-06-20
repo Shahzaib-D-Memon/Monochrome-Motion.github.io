@@ -127,6 +127,7 @@ body {
   background-color: #000000;
   cursor: pointer;
 }
+
 .rectangles_desc span:hover {
   background-color: transparent;
 }
