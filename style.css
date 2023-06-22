@@ -225,6 +225,7 @@ body {
   height: 400px;
   width: 300px;
 }
+
 .sp-left {
   flex: 1.2 !important;
 }
