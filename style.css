@@ -223,6 +223,7 @@ body {
 .Spring_Right {
   flex: 2;
 }
+
 .bg-dots {
   background-image: url('./img/background-spring.jpg');
   background-size: contain;
