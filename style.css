@@ -613,6 +613,7 @@ body {
   background: conic-gradient(#fff, #000);
   animation: spin 4s linear infinite;
 }
+
 @keyframes spin {
   to {
     transform: rotate(360deg);
