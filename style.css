@@ -271,6 +271,7 @@ body {
 .RightSection {
   flex: 1px;
 }
+
 .lastCircle {
   position: absolute;
   width: 102px;
