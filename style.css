@@ -484,6 +484,7 @@ body {
   justify-content: center;
   animation: moveThree linear 4s infinite;
 }
+
 .image2 {
   position: absolute;
   top: 2px;
