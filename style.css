@@ -333,6 +333,7 @@ body {
   opacity: 1;
   transition: opacity linear 0.3s;
 }
+
 .spring-circle:hover {
   opacity: 0;
   transition: opacity linear 0.1s;
