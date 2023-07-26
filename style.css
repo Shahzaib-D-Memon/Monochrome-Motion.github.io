@@ -1046,6 +1046,7 @@ a {
     left: -3rem !important;
   }
 }
+
 @media screen and (max-width: 992px) {
   .Third__Page {
     flex-direction: column;
